@@ -5,6 +5,6 @@
  - static files are not connect
  - no message broker
 # functions implemented: authorization, authentication, token introspection #
- ***stack: fastApi, docker, postgres, alembic***
+# ***stack: fastApi, docker, postgres, alembic***
 # No documentation
 
